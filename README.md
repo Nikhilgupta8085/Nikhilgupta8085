@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Nikhil Gupta I'm a Mern Stack Developer.</h2>
+<h2 align="left">Hi 👋! My name is Nikhil Gupta I'm a Software Tester.</h2>
 
 ###
 
-<h3 align="left">Mern Stack Developer 👨‍💻🚀</h3>
+<h3 align="left">Software Tester 🚀</h3>
 
 ###
 
@@ -10,12 +10,12 @@
 
 ###
 
-- 🔭 I’m currently working **React, Node**
+- 🔭 I’m currently working **Manual, Automation**
 
-- 💬 Ask me about **Mern Stack**
+- 💬 Ask me about **Manual & Automation**
 ###
 
-<h4 align="left">A hard-working person who loves to write clean and scalable code using the latest tech stack.Always hungry for learning new things.</h4>
+<h4 align="left">Testing is not about finding bugs, it’s about preventing them.</h4>
 
 ###
 <div align="left">
